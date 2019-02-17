@@ -1,5 +1,5 @@
 Issues
--------
+======
 
 .. note::
     Issues are for improvements & bug fixes. File an issue on `Github <https://github.com/gerardvidamo/Fleximi/issues>`_
