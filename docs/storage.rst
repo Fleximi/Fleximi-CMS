@@ -3,7 +3,7 @@ Storage
 
 .. note::
 
-    For now the available storage Data is MySql.
+    For now, the available Data Storage for Fleximi is MySql.
 
 
 Modify Connection String from `appsettings.json <https://github.com/gerardvidamo/Fleximi/blob/dev/alpha-fixes/src/Fleximi.Web/appsettings.json>`_::
