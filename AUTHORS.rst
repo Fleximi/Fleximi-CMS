@@ -1,5 +1,5 @@
 Authors
 -------
 
-* Gerard Vidamo (Fleximi CMS Founder/Author/Developer)
+* `Gerard Vidamo (Fleximi Founder/Author/Developer) <https://www.linkedin.com/in/gerardvidamo>`_
 

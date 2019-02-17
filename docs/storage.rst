@@ -5,12 +5,12 @@ Storage
 
     For now the available storage Data is MySQL.
 
-MySQL
+MySql
 -----
 
 Download `MySQL Server <https://dev.mysql.com/downloads/mysql/>`_ and test connections
 
-Modify Connection String from::
+Modify Connection String from 'appsettings.json <https://github.com/gerardvidamo/Fleximi/blob/dev/alpha-fixes/src/Fleximi.Web/appsettings.json>'_::
 
     {
         "Logging": {
