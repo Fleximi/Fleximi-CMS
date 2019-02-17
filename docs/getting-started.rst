@@ -14,9 +14,9 @@ Tools and Depenencies
 .. note::
     DotNet Core recommended version 2.1.403
 
-- Use `Node.js <https://nodejs.org/en/>`_  and follow `nvm installation guide <https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/>`_, this is require for compiling front-end developments.
-- use `Bower <https://bower.io/>`_ for getting all the package for front-end developments
-- Use `Git <https://git-scm.com/>`_ for getting the latest Fleximi branch and for developments.
+- Use `Node.js <https://nodejs.org/en/>`_  and follow `nvm installation guide <https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/>`_, this is required for compiling front-end developments.
+- `Bower <https://bower.io/>`_ is getting all the package for front-end developments
+- `Git <https://git-scm.com/>`_ is for getting the latest Fleximi branch and for developments.
 
 Run and clone Fleximi
 ---------------------
