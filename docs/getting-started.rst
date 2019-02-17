@@ -9,14 +9,14 @@ Tools and Depenencies
 .. note::
     (Optional) You can copy `Cloud Settings by Gerard Vidamo <https://gist.github.com/gerardvidamo/40ce95df4022acb2bd0e7ae8ffbd017d>`_ 
 
-* `DotNet Core 2.1 <https://dotnet.microsoft.com/download/dotnet-core/2.1>`_ 
+* Use `DotNet Core 2.1 <https://dotnet.microsoft.com/download/dotnet-core/2.1>`_ stable version for Fleximi
 
 .. note::
     DotNet Core recommended version 2.1.403
 
-- `Node.js <https://nodejs.org/en/>`_  and follow `nvm installation guide <https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/>`_ 
-- `Bower <https://bower.io/>`_
-- `Git <https://git-scm.com/>`_
+- Use `Node.js <https://nodejs.org/en/>`_  and follow `nvm installation guide <https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/>`_, this is require for compiling front-end developments.
+- use `Bower <https://bower.io/>`_ for getting all the package for front-end developments
+- Use `Git <https://git-scm.com/>`_ for getting the latest Fleximi branch and for developments.
 
 Run and clone Fleximi
 ---------------------
