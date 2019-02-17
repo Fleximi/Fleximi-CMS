@@ -29,7 +29,7 @@ Clone the repository somewhere on your disk and enter to the repository::
 Next, restore and build solution. Open terminal and cd into Fleximi repo
 
 .. note::
-    You may require ubuntu bash if you are using Windows Operating system. Follow this guide `How to Install and Use the Linux Bash Shell on Windows 10 by Chris Hoffman <https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/>`_ 
+    You might need to install ubuntu bash if you are using Windows Operating system. Follow this guide `How to Install and Use the Linux Bash Shell on Windows 10 by Chris Hoffman <https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/>`_ 
 
 Restore and build::
 
