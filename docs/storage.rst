@@ -6,7 +6,7 @@ Storage
     For now the available storage Data is MySql.
 
 
-Modify Connection String from 'appsettings.json <https://github.com/gerardvidamo/Fleximi/blob/dev/alpha-fixes/src/Fleximi.Web/appsettings.json>'_ ::
+Modify Connection String from `appsettings.json <https://github.com/gerardvidamo/Fleximi/blob/dev/alpha-fixes/src/Fleximi.Web/appsettings.json>`_::
 
     {
         "Logging": {
@@ -28,5 +28,5 @@ Modify Connection String from 'appsettings.json <https://github.com/gerardvidamo
 MySql
 -----
 
-Download `MySql Server <https://dev.mysql.com/downloads/mysql/>`_ and test connections
+Download `MySql Server <https://dev.mysql.com/downloads/mysql/>`_ and test the connection
 
