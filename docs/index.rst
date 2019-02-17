@@ -1,10 +1,10 @@
-.. Read the Docs Template documentation master file, created by
-   sphinx-quickstart on Tue Aug 26 14:19:49 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Documentation
+=============
+Getting Started
+Do you want click through a Drupal demo site?
 
-Welcome to Read the Docs Template's documentation!
-==================================================
+You can Try `Fleximi online <https://fleximi.com>` with one of our hosting partners or `create a Fleximi demo site on your local machine.`
+
 
 Contents:
 
