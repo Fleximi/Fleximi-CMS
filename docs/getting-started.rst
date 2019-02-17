@@ -3,16 +3,14 @@ Getting Started
 
 Tools and Depenencies
 ---------------------
+.. note::
+    * Setting up `Visual Studio Code <https://code.visualstudio.com/>`_ environment Fleximi development 
+    * (Optional) You can copy `Cloud Settings by Gerard Vidamo <https://gist.github.com/gerardvidamo/40ce95df4022acb2bd0e7ae8ffbd017d>`_ 
 
-* Setting up `Visual Studio Code <https://code.visualstudio.com/>`_ environment Fleximi development 
 
 .. note::
-    (Optional) You can copy `Cloud Settings by Gerard Vidamo <https://gist.github.com/gerardvidamo/40ce95df4022acb2bd0e7ae8ffbd017d>`_ 
-
-* Use `DotNet Core 2.1 <https://dotnet.microsoft.com/download/dotnet-core/2.1>`_ stable version for Fleximi
-
-.. note::
-    DotNet Core recommended version 2.1.403
+    * Use `DotNet Core 2.1 <https://dotnet.microsoft.com/download/dotnet-core/2.1>`_ stable version for Fleximi
+    * DotNet Core recommended version 2.1.403
 
 - Use `Node.js <https://nodejs.org/en/>`_  and follow `nvm installation guide <https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/>`_, this is required for compiling front-end developments.
 - `Bower <https://bower.io/>`_ is for getting all the packages for front-end developments
