@@ -25,8 +25,10 @@ Modify Connection String from `appsettings.json <https://github.com/gerardvidamo
         }
     }
 
-MySql
------
+MySql Server
+------------
 
-Download `MySql Server <https://dev.mysql.com/downloads/mysql/>`_ and test the connection
+Using `MySql Server <https://dev.mysql.com/downloads/mysql/>`_, run this code to update database storage::
+
+    sh ./scripts/development.sh --update-mysql
 
