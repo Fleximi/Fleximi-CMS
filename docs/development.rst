@@ -1,8 +1,13 @@
 Getting Started
 ===============
 
-Depenencies
-------------
+Tools and Depenencies
+---------------------
+
+* Setting up `Visual Studio Code <https://code.visualstudio.com/>`_ environment Fleximi development 
+
+.. note::
+    (Optional) You can copy `Cloud Settings by Gerard Vidamo <https://gist.github.com/gerardvidamo/40ce95df4022acb2bd0e7ae8ffbd017d>`_ 
 
 * `DotNet Core 2.1 <https://dotnet.microsoft.com/download/dotnet-core/2.1>`_ 
 
@@ -11,24 +16,12 @@ Depenencies
 
 - `Node.js <https://nodejs.org/en/>`_  and follow `nvm installation guide <https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/>`_ 
 - `Bower <https://bower.io/>`_
-
-Tools
------
-
-* `Visual Studio Code <https://code.visualstudio.com/>`_
-
-Setting up Visual Studio Code
------------------------------
-
-Setting up Visual Studio Code environment Fleximi development
-
-.. note::
-    (Optional) You can copy `Cloud Settings by Gerard Vidamo <https://gist.github.com/gerardvidamo/40ce95df4022acb2bd0e7ae8ffbd017d>`_ 
+- `Git <https://git-scm.com/>`_
 
 Run and clone Fleximi
 ---------------------
 
-Clone the repository somewhere on your disk and enter to the repository:
+Clone the repository somewhere on your disk and enter to the repository::
 
     git clone https://github.com/gerardvidamo/Fleximi.git
     cd Fleximi
