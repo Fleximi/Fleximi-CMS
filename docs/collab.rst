@@ -13,5 +13,5 @@ Contributing
 ------------
 A few pointers for contributions:
 
-*Create your PR against the develop branch, not master.
-*If you are unsure, discuss the feature in an issue before a PR.
+* Create your PR against the develop branch, not master.
+* If you are unsure, discuss the feature in an issue before a PR.
