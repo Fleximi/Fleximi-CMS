@@ -7,4 +7,4 @@ Issues
 Report an Issue
 ---------------
 
-Please report and issue if you found some errors.
+Please report an issue if you want some improvement and you found some bug. WE WILL FIX IT ASAP.
