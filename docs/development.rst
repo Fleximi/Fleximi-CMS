@@ -17,18 +17,13 @@ Tools
 
 * `Visual Studio Code <https://code.visualstudio.com/>`_
 
-Database
---------
-
-* `MySQL <https://dev.mysql.com/downloads/mysql/>`_
-
 Setting up Visual Studio Code
 -----------------------------
 
 Setting up Visual Studio Code environment Fleximi development
 
 .. note::
-    You can copy `Visual Studio Code Extensions <https://gist.github.com/gerardvidamo/40ce95df4022acb2bd0e7ae8ffbd017d> by Gerard Vidamo`_ 
+    (Optional) You can copy `Cloud Settings by Gerard Vidamo <https://gist.github.com/gerardvidamo/40ce95df4022acb2bd0e7ae8ffbd017d>`_ 
 
 Run and clone Fleximi
 ---------------------
